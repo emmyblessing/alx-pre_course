@@ -1,1 +1,1 @@
-0x02-git Readme.md created
+**0x02 git directories updated**
